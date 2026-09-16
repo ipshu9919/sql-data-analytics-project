@@ -1,5 +1,5 @@
 
-# 📊 SQL Data Analytics Project
+# SQL Data Analytics Project
 A practical SQL-based data analytics project focused on exploring, analyzing, and reporting sales data using **SQL Server**.
 This project demonstrates the use of SQL to explore data, calculate business metrics, analyze customer and product performance, identify trends, and build analytical reports.
 
