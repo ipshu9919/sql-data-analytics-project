@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ---
 
 ## 🌟 About Me
-Hi! I'm **Ipshita**, an MBA graduate specializing in **Marketing and International Business**, with a growing passion for **Data Analytics**.
+Hi! I'm **Ipshita Vishwakarma**, an MBA graduate specializing in **Marketing and International Business**, with a growing passion for **Data Analytics**.
 I'm currently developing my skills in **SQL, Excel, Power BI, Python, and data visualization** through practical projects and hands-on learning.
 
 ---
