@@ -2,7 +2,9 @@
 # 📊 SQL Data Analytics Project
 A practical SQL-based data analytics project focused on exploring, analyzing, and reporting sales data using **SQL Server**.
 This project demonstrates the use of SQL to explore data, calculate business metrics, analyze customer and product performance, identify trends, and build analytical reports.
+
 ---
+
 ## 🎯 Project Objectives
 The main objectives of this project are to:
 - 🔍 Explore and understand the database and its dimensions
@@ -13,12 +15,16 @@ The main objectives of this project are to:
 - 👥 Segment customers based on different characteristics
 - 🧩 Analyze relationships between different business components
 - 📋 Create customer and product reports using SQL
+  
 ---
+
 ## 🛠️ Tools & Technologies
 - **SQL Server**
 - **SQL Server Management Studio (SSMS)**
 - **Git & GitHub**
+  
 ---
+
 ## 📁 Project Structure
 The project contains SQL scripts covering different areas of data exploration, analysis, and reporting.
 | Script | Description |
@@ -37,12 +43,17 @@ The project contains SQL scripts covering different areas of data exploration, a
 | `11_part_to_whole_analysis.sql` | Part-to-whole analysis |
 | `12_report_customers.sql` | Customer reporting |
 | `13_report_products.sql` | Product reporting |
+
 ---
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 ---
+
 ## 🌟 About Me
 Hi! I'm **Ipshita**, an MBA graduate specializing in **Marketing and International Business**, with a growing passion for **Data Analytics**.
 I'm currently developing my skills in **SQL, Excel, Power BI, Python, and data visualization** through practical projects and hands-on learning.
+
 ---
